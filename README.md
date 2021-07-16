@@ -45,8 +45,8 @@ DLC | Supported
 [Heart of Russia][Russia] | *Coming Soon*
 
 
-[ATS Map]: linkhere
-[ETS2 Map]: linkhere
+[ATS Map]: https://github.com/TwinDragon/SCS_Map_Tiles/releases/download/1.41.1.0/ATS_map_1.41.1.0.7z
+[ETS2 Map]: https://github.com/TwinDragon/SCS_Map_Tiles/releases/download/1.41.1.0/ETS2_Map_1.41.1.0.7z
 [Dashboard]: https://github.com/JAGFx/ets2-dashboard-skin
 [TsMap2]: https://github.com/JAGFx/ts-map
 
