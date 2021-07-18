@@ -14,7 +14,7 @@ Check your *Output* folder for the map files, and zip/rar them for easy uploadin
 
 ## Contribute File(s)
 
-Now that you have a zip, it's time to actually contribute them! It's pretty simple, just open a [New Issue](https://github.com/TwinDragon/SCS_Map_Tiles/issues/new) and link the file using whatever service you prefer. That could be Google Drive, MEGA, OneDrive, etc... Whichever is easiest.
+Now that you have a zip, it's time to actually contribute them! It's pretty simple, just open a [New Issue](https://github.com/TwinDragon/SCS_Map_Tiles/issues/new/choose) and link the file using whatever service you prefer. That could be Google Drive, MEGA, OneDrive, etc... Whichever is easiest.
 
 ### Promods Note
 
