@@ -6,6 +6,8 @@ Onto the main part of how to contribute here.
 
 JagFX already wrote out how you can generate map tiles in their [TsMap2](https://github.com/JAGFx/ts-map/tree/feat/rework#how-to-use-) *README* file. Follow those instructions to generate the tiles; the process will take a few minutes depending on your system.
 
+*Note: You must own all DLC for the game of which you wish to generate tiles for.*
+
 ## Zip The Files
 
 Check your *Output* folder for the map files, and zip/rar them for easy uploading. I would prefer you have a name scheme like **ats_v1.41.zip** or similar. If it's a mod map such as Promods, please use something like **ats_pro_v1.41.zip** so I know which is which.
