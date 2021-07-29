@@ -16,7 +16,7 @@ Map | Version | Download
 Base ATS | 1.41.1.0 | [Download][ATS Map]
 Base ETS2 | 1.41.1.0 | [Download][ETS2 Map]
 Promods ATS | xxx | *N/A*
-Promods ETS2 | 1.41.1.0 | [Download][ETS2 Promods]
+Promods ETS2 | 2.56 | [Download][ETS2 Promods]
 
 ### Supported ATS DLC
 
