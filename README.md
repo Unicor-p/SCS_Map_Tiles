@@ -1,6 +1,7 @@
 <p align="center">
     <img src="https://img.shields.io/badge/ATS-v1.41.1.0-ff0000?style=for-the-badge" alt="American Truck Simulator">
     <img src="https://img.shields.io/badge/ETS2-v1.41.1.0-orange?style=for-the-badge" alt="Euro Truck Simulator 2">
+    <img src="https://img.shields.io/badge/Promods-v1.41.1.0-e6e600?style=for-the-badge" alt="Promods for ETS2">
 </p>
 
 # SCS Software Map Tile Collection
