@@ -15,7 +15,7 @@ Map | Version | Download
 Base ATS | 1.41.1.0 | [Download][ATS Map]
 Base ETS2 | 1.41.1.0 | [Download][ETS2 Map]
 Promods ATS | xxx | *N/A*
-Promods ETS2 | xxx | *N/A*
+Promods ETS2 | 1.41.1.0 | [Download][ETS2 Promods]
 
 ### Supported ATS DLC
 
@@ -47,6 +47,7 @@ DLC | Supported
 
 [ATS Map]: https://github.com/TwinDragon/SCS_Map_Tiles/releases/download/1.41.1.0/ATS_map_1.41.1.0.7z
 [ETS2 Map]: https://github.com/TwinDragon/SCS_Map_Tiles/releases/download/1.41.1.0/ETS2_Map_1.41.1.0.7z
+[ETS2 Promods]: https://github.com/TwinDragon/SCS_Map_Tiles/releases/download/1.41.1.0/ETS2_promods_1.41.7z
 [Dashboard]: https://github.com/JAGFx/ets2-dashboard-skin
 [TsMap2]: https://github.com/JAGFx/ts-map
 
