@@ -462,8 +462,21 @@
     "CountryCode": "WY",
     "CountryId": 50,
     "Name": "Wyoming",
-    "X": -43000.0,
-    "Y": -27000.0,
-    "LocalizedNames": {}
+    "X": -47500.0,
+    "Y": -25000.0,
+    "LocalizedNames": {
+      "bg_bg": "Wyoming",
+      "ca_es": "Wyoming",
+      "cs_cz": "Wyoming",
+      "da_dk": "Wyoming",
+      "de_de": "Wyoming",
+      "el_gr": "Ουαϊόμινγκ",
+      "en_gb": "Wyoming",
+      "en_us": "Wyoming",
+      "es_es": "Wyoming",
+      "es_la": "Wyoming",
+      "et_ee": "Wyoming",
+      "eu_es": "Wyoming"
+    }
   }
 ]

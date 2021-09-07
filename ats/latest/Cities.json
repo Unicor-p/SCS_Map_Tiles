@@ -4244,7 +4244,7 @@
       "cs_cz": "Fusion Travel Plaza",
       "da_dk": "Fusion Travel Plaza",
       "de_de": "Fusion Travel Plaza",
-      "el_gr": "Fusion Travel Plaza",
+      "el_gr": "Εμπορικό Κέντρο Φιούζον Τράβελ",
       "en_gb": "Fusion Travel Plaza",
       "en_us": "Fusion Travel Plaza",
       "es_es": "Fusion Travel Plaza",
@@ -6576,6 +6576,216 @@
       "vi_vn": "Yakima",
       "zh_cn": "亚基马",
       "zh_tw": "雅基馬"
+    }
+  },
+  {
+    "CountryId": 50,
+    "X": -44186.312,
+    "Y": -25696.652,
+    "Name": "Casper",
+    "CountryName": "wyoming",
+    "LocalizedNames": {
+      "bg_bg": "Casper",
+      "ca_es": "Casper",
+      "cs_cz": "Casper",
+      "da_dk": "Casper",
+      "de_de": "Casper",
+      "el_gr": "Κάσπερ",
+      "en_gb": "Casper",
+      "en_us": "Casper",
+      "es_es": "Casper",
+      "es_la": "Casper",
+      "et_ee": "Casper",
+      "eu_es": "Casper"
+    }
+  },
+  {
+    "CountryId": 50,
+    "X": -37386.92,
+    "Y": -14037.742,
+    "Name": "Cheyenne",
+    "CountryName": "wyoming",
+    "LocalizedNames": {
+      "bg_bg": "Cheyenne",
+      "ca_es": "Cheyenne",
+      "cs_cz": "Cheyenne",
+      "da_dk": "Cheyenne",
+      "de_de": "Cheyenne",
+      "el_gr": "Σαϊέν",
+      "en_gb": "Cheyenne",
+      "en_us": "Cheyenne",
+      "es_es": "Cheyenne",
+      "es_la": "Cheyenne",
+      "et_ee": "Cheyenne",
+      "eu_es": "Cheyenne"
+    }
+  },
+  {
+    "CountryId": 50,
+    "X": -62020.684,
+    "Y": -19029.934,
+    "Name": "Evanston",
+    "CountryName": "wyoming",
+    "LocalizedNames": {
+      "bg_bg": "Evanston",
+      "ca_es": "Evanston",
+      "cs_cz": "Evanston",
+      "da_dk": "Evanston",
+      "de_de": "Evanston",
+      "el_gr": "Έβανστον",
+      "en_gb": "Evanston",
+      "en_us": "Evanston",
+      "es_es": "Evanston",
+      "es_la": "Evanston",
+      "et_ee": "Evanston",
+      "eu_es": "Evanston"
+    }
+  },
+  {
+    "CountryId": 50,
+    "X": -36092.344,
+    "Y": -32018.658,
+    "Name": "Gillette",
+    "CountryName": "wyoming",
+    "LocalizedNames": {
+      "bg_bg": "Gillette",
+      "ca_es": "Gillette",
+      "cs_cz": "Gillette",
+      "da_dk": "Gillette",
+      "de_de": "Gillette",
+      "el_gr": "Τζιλέτ",
+      "en_gb": "Gillette",
+      "en_us": "Gillette",
+      "es_es": "Gillette",
+      "es_la": "Gillette",
+      "et_ee": "Gillette",
+      "eu_es": "Gillette"
+    }
+  },
+  {
+    "CountryId": 50,
+    "X": -60784.934,
+    "Y": -31617.357,
+    "Name": "Jackson",
+    "CountryName": "wyoming",
+    "LocalizedNames": {
+      "bg_bg": "Jackson",
+      "ca_es": "Jackson",
+      "cs_cz": "Jackson",
+      "da_dk": "Jackson",
+      "de_de": "Jackson",
+      "el_gr": "Τζάκσον",
+      "en_gb": "Jackson",
+      "en_us": "Jackson",
+      "es_es": "Jackson",
+      "es_la": "Jackson",
+      "et_ee": "Jackson",
+      "eu_es": "Jackson"
+    }
+  },
+  {
+    "CountryId": 50,
+    "X": -42711.51,
+    "Y": -18424.895,
+    "Name": "Laramie",
+    "CountryName": "wyoming",
+    "LocalizedNames": {
+      "bg_bg": "Laramie",
+      "ca_es": "Laramie",
+      "cs_cz": "Laramie",
+      "da_dk": "Laramie",
+      "de_de": "Laramie",
+      "el_gr": "Λάραμι",
+      "en_gb": "Laramie",
+      "en_us": "Laramie",
+      "es_es": "Laramie",
+      "es_la": "Laramie",
+      "et_ee": "Laramie",
+      "eu_es": "Laramie"
+    }
+  },
+  {
+    "CountryId": 50,
+    "X": -45004.22,
+    "Y": -19750.848,
+    "Name": "Rawlins",
+    "CountryName": "wyoming",
+    "LocalizedNames": {
+      "bg_bg": "Rawlins",
+      "ca_es": "Rawlins",
+      "cs_cz": "Rawlins",
+      "da_dk": "Rawlins",
+      "de_de": "Rawlins",
+      "el_gr": "Ρόλινς",
+      "en_gb": "Rawlins",
+      "en_us": "Rawlins",
+      "es_es": "Rawlins",
+      "es_la": "Rawlins",
+      "et_ee": "Rawlins",
+      "eu_es": "Rawlins"
+    }
+  },
+  {
+    "CountryId": 50,
+    "X": -51021.26,
+    "Y": -27977.82,
+    "Name": "Riverton",
+    "CountryName": "wyoming",
+    "LocalizedNames": {
+      "bg_bg": "Riverton",
+      "ca_es": "Riverton",
+      "cs_cz": "Riverton",
+      "da_dk": "Riverton",
+      "de_de": "Riverton",
+      "el_gr": "Ρίβερτον",
+      "en_gb": "Riverton",
+      "en_us": "Riverton",
+      "es_es": "Riverton",
+      "es_la": "Riverton",
+      "et_ee": "Riverton",
+      "eu_es": "Riverton"
+    }
+  },
+  {
+    "CountryId": 50,
+    "X": -55188.742,
+    "Y": -18398.664,
+    "Name": "Rock Springs",
+    "CountryName": "Wyoming",
+    "LocalizedNames": {
+      "bg_bg": "Rock Springs",
+      "ca_es": "Rock Springs",
+      "cs_cz": "Rock Springs",
+      "da_dk": "Rock Springs",
+      "de_de": "Rock Springs",
+      "el_gr": "Ροκ Σπρίνκς",
+      "en_gb": "Rock Springs",
+      "en_us": "Rock Springs",
+      "es_es": "Rock Springs",
+      "es_la": "Rock Springs",
+      "et_ee": "Rock Springs",
+      "eu_es": "Rock Springs"
+    }
+  },
+  {
+    "CountryId": 50,
+    "X": -43895.05,
+    "Y": -35297.184,
+    "Name": "Sheridan",
+    "CountryName": "wyoming",
+    "LocalizedNames": {
+      "bg_bg": "Sheridan",
+      "ca_es": "Sheridan",
+      "cs_cz": "Sheridan",
+      "da_dk": "Sheridan",
+      "de_de": "Sheridan",
+      "el_gr": "Σέρινταν",
+      "en_gb": "Sheridan",
+      "en_us": "Sheridan",
+      "es_es": "Sheridan",
+      "es_la": "Sheridan",
+      "et_ee": "Sheridan",
+      "eu_es": "Sheridan"
     }
   }
 ]
