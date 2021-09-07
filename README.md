@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="https://img.shields.io/badge/ATS-v1.41.1.0-ff0000?style=for-the-badge" alt="American Truck Simulator">
+    <img src="https://img.shields.io/badge/ATS-v1.41.1.60-ff0000?style=for-the-badge" alt="American Truck Simulator">
     <img src="https://img.shields.io/badge/ETS2-v1.41.1.0-orange?style=for-the-badge" alt="Euro Truck Simulator 2">
     <img src="https://img.shields.io/badge/Promods-v2.56-e6e600?style=for-the-badge" alt="Promods for ETS2">
     <img src="https://img.shields.io/badge/PromodsCA-NA-00b300?style=for-the-badge" alt="Promods Canada for ATS">
@@ -30,8 +30,8 @@ DLC | Supported
 [Utah][Utah] | ✔
 [Idaho][Idaho] | ✔
 [Colorado][Colorado] | ✔
+[Wyoming][Wyoming] | ✔
 [Texas][Texas] | *Coming Soon*
-[Wyoming][Wyoming] | *Coming Soon*
 
 ### Supported ETS2 DLC
 
@@ -47,7 +47,7 @@ DLC | Supported
 [Heart of Russia][Russia] | *Coming Soon*
 
 
-[ATS Map]: https://github.com/TwinDragon/SCS_Map_Tiles/releases/download/1.41.1.0/ATS_map_1.41.1.0.7z
+[ATS Map]: https://github.com/TwinDragon/SCS_Map_Tiles/releases/download/1.41.1.60/ATS_Map_1.41.1.60.7z
 [ETS2 Map]: https://github.com/TwinDragon/SCS_Map_Tiles/releases/download/1.41.1.0/ETS2_Map_1.41.1.0.7z
 [ETS2 Promods]: https://github.com/TwinDragon/SCS_Map_Tiles/releases/download/1.41.1.0/ETS2_promods_1.41.7z
 [Dashboard]: https://github.com/JAGFx/ets2-dashboard-skin
