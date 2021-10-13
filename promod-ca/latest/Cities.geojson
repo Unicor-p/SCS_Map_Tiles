@@ -96,21 +96,6 @@
         "type": "Point",
         "coordinates": [
           [
-            0.0,
-            -0.0
-          ]
-        ]
-      },
-      "properties": {
-        "name": "Hornbrook"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          [
             -109205.23,
             -1863.5625
           ]
@@ -1228,36 +1213,6 @@
       },
       "properties": {
         "name": "Las Cruces"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          [
-            0.0,
-            -0.0
-          ]
-        ]
-      },
-      "properties": {
-        "name": "Pajarito Rest Area"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          [
-            0.0,
-            -0.0
-          ]
-        ]
-      },
-      "properties": {
-        "name": "Fusion Travel Plaza"
       },
       "type": "Feature"
     },
