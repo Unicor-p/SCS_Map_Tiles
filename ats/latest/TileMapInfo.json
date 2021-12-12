@@ -1,0 +1,20 @@
+{
+  "map": {
+    "maxX": 131072,
+    "maxY": 131072,
+    "x1": -127848.195,
+    "x2": -16893.625,
+    "y1": -72065.5,
+    "y2": 38889.07,
+    "tileSize": 512,
+    "minZoom": 0,
+    "maxZoom": 8
+  },
+  "game": {
+    "id": "ats",
+    "game": "ats",
+    "name": "American Truck Simulator",
+    "version": "1.43.1.2",
+    "generatedAt": "2021-12-12T17:00:33.9889544-06:00"
+  }
+}

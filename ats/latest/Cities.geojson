@@ -1,0 +1,2045 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          [
+            -104382.55,
+            -6924.043
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Bakersfield"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          [
+            -96833.34,
+            -12085.285
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Barstow"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          [
+            -100687.055,
+            -20582.309
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Carlsbad"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          [
+            -92073.86,
+            -24689.809
+          ]
+        ]
+      },
+      "properties": {
+        "name": "El Centro"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          [
+            -105163.72,
+            164.29688
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Fresno"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          [
+            -110126.7,
+            32421.379
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Hilt"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          [
+            -109205.23,
+            -1863.5625
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Huron"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          [
+            -118391.19,
+            27428.973
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Eureka"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          [
+            -103989.25,
+            -16424.414
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Los Angeles"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          [
+            -109052.0,
+            6961.4023
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Oakdale"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          [
+            -113451.875,
+            8478.496
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Oakland"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          [
+            -107308.56,
+            -13436.598
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Oxnard"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          [
+            -110649.89,
+            24864.602
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Redding"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          [
+            -111350.23,
+            12303.582
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Sacramento"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          [
+            -98862.234,
+            -24009.691
+          ]
+        ]
+      },
+      "properties": {
+        "name": "San Diego"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          [
+            -114531.47,
+            10160.16
+          ]
+        ]
+      },
+      "properties": {
+        "name": "San Francisco"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          [
+            -114890.68,
+            13687.184
+          ]
+        ]
+      },
+      "properties": {
+        "name": "San Rafael"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          [
+            -114925.33,
+            4449.371
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Santa Cruz"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          [
+            -111656.69,
+            -8635.988
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Santa Maria"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          [
+            -110864.25,
+            9946.91
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Stockton"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          [
+            -106289.086,
+            15513.664
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Truckee"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          [
+            -116865.08,
+            19272.113
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Ukiah"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          [
+            -73776.61,
+            -19191.82
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Camp Verde"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          [
+            -62631.855,
+            -28235.773
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Clifton"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          [
+            -85758.94,
+            -21344.695
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Ehrenberg"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          [
+            -71524.58,
+            -14386.262
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Flagstaff"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          [
+            -73445.0,
+            -10278.473
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Grand Canyon Village"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          [
+            -64899.95,
+            -18011.25
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Holbrook"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          [
+            -64177.04,
+            -7317.551
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Kayenta"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          [
+            -82132.58,
+            -13032.414
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Kingman"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          [
+            -72018.77,
+            -36905.12
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Nogales"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          [
+            -69111.32,
+            -5501.8984
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Page"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          [
+            -76543.57,
+            -24428.145
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Phoenix"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          [
+            -62858.707,
+            -33073.004
+          ]
+        ]
+      },
+      "properties": {
+        "name": "San Simon"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          [
+            -65590.31,
+            -21638.297
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Show Low"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          [
+            -68525.484,
+            -36633.977
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Sierra Vista"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          [
+            -71475.055,
+            -31536.89
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Tucson"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          [
+            -88656.0,
+            -26343.355
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Yuma"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          [
+            -44120.32,
+            -6116.215
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Alamosa"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          [
+            -27255.188,
+            2924.9766
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Burlington"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          [
+            -37948.887,
+            1474.8672
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Colorado Springs"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          [
+            -38561.406,
+            5211.336
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Denver"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          [
+            -53028.91,
+            -5878.5273
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Durango"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          [
+            -39016.8,
+            11167.918
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Fort Collins"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          [
+            -53960.414,
+            3578.8516
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Grand Junction"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          [
+            -29205.27,
+            -3946.8945
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Lamar"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          [
+            -52039.0,
+            683.59375
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Montrose"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          [
+            -38860.035,
+            -2018.8438
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Pueblo"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          [
+            -54394.777,
+            10216.746
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Rangely"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          [
+            -46238.902,
+            11120.9375
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Steamboat Springs"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          [
+            -32170.879,
+            10138.285
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Sterling"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          [
+            -80721.85,
+            35196.64
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Boise"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          [
+            -78219.05,
+            58079.785
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Coeur d'Alene"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          [
+            -77628.21,
+            48333.473
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Grangeville"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          [
+            -64857.69,
+            32600.379
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Idaho Falls"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          [
+            -80795.7,
+            51579.723
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Lewiston"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          [
+            -67985.09,
+            28435.227
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Pocatello"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          [
+            -70460.2,
+            42399.87
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Salmon"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          [
+            -77024.914,
+            62782.88
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Sandpoint"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          [
+            -75344.56,
+            28541.062
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Twin Falls"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          [
+            -73985.5,
+            34871.1
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Ketchum"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          [
+            -83371.836,
+            35259.98
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Nampa"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          [
+            -101961.234,
+            11320.781
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Carson City"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          [
+            -83038.19,
+            19629.2
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Elko"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          [
+            -81816.99,
+            10099.406
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Ely"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          [
+            -77998.67,
+            24905.188
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Jackpot"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          [
+            -84781.56,
+            -6493.2695
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Las Vegas"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          [
+            -80956.82,
+            4658.3945
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Pioche"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          [
+            -86787.586,
+            -9252.016
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Primm"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          [
+            -102744.66,
+            16317.984
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Reno"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          [
+            -93770.266,
+            5604.5234
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Tonopah"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          [
+            -91345.15,
+            22115.945
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Winnemucca"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          [
+            -50091.605,
+            -19406.629
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Albuquerque"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          [
+            -46944.06,
+            -31584.008
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Alamogordo"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          [
+            -39437.2,
+            -33171.918
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Artesia"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          [
+            -38330.645,
+            -35333.46
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Carlsbad"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          [
+            -33411.94,
+            -24738.738
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Clovis"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          [
+            -54704.523,
+            -8793.18
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Farmington"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          [
+            -58246.527,
+            -15428.328
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Gallup"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          [
+            -33734.926,
+            -33838.836
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Hobbs"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          [
+            -51595.33,
+            -34654.637
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Las Cruces"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          [
+            -38146.277,
+            -10189.754
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Raton"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          [
+            -39713.355,
+            -29839.484
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Roswell"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          [
+            -44752.13,
+            -16042.129
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Santa Fe"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          [
+            -50697.28,
+            -24572.895
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Socorro"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          [
+            -35286.418,
+            -20089.887
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Tucumcari"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          [
+            -105021.875,
+            52252.566
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Portland"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          [
+            -106253.11,
+            49424.34
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Salem"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          [
+            -107309.78,
+            45601.156
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Eugene"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          [
+            -110682.68,
+            35759.156
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Medford"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          [
+            -100855.7,
+            42826.754
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Bend"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          [
+            -107078.14,
+            57262.973
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Astoria"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          [
+            -92989.69,
+            37971.543
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Burns"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          [
+            -113631.6,
+            42795.44
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Coos Bay"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          [
+            -98709.99,
+            51147.625
+          ]
+        ]
+      },
+      "properties": {
+        "name": "The Dalles"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          [
+            -90062.36,
+            49298.363
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Pendleton"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          [
+            -100530.125,
+            31411.953
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Lakeview"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          [
+            -111085.13,
+            48697.41
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Newport"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          [
+            -84389.97,
+            38358.773
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Ontario"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          [
+            -105857.38,
+            33799.57
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Klamath Falls"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          [
+            -74848.734,
+            992.02734
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Cedar City"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          [
+            -65798.19,
+            21543.445
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Logan"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          [
+            -58842.18,
+            2455.75
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Moab"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          [
+            -66780.234,
+            19437.879
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Ogden"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          [
+            -62580.652,
+            9242.07
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Price"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          [
+            -66418.484,
+            13084.6875
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Provo"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          [
+            -68567.055,
+            6767.5195
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Salina"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          [
+            -68092.05,
+            16363.512
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Salt Lake City"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          [
+            -78434.42,
+            -2806.918
+          ]
+        ]
+      },
+      "properties": {
+        "name": "St. George"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          [
+            -57321.605,
+            12824.715
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Vernal"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          [
+            -105848.17,
+            61143.773
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Aberdeen"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          [
+            -98202.98,
+            70318.94
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Bellingham"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          [
+            -81888.28,
+            63999.914
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Colville"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          [
+            -98694.03,
+            65622.18
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Everett"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          [
+            -86528.09,
+            62695.2
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Grand Coulee"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          [
+            -89747.43,
+            52615.207
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Kennewick"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          [
+            -104160.89,
+            56745.805
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Longview"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          [
+            -102416.2,
+            60846.926
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Olympia"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          [
+            -88226.97,
+            64712.773
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Omak"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          [
+            -103440.5,
+            66951.055
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Port Angeles"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          [
+            -99469.1,
+            62890.027
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Seattle"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          [
+            -80659.55,
+            59109.383
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Spokane"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          [
+            -100595.375,
+            60854.87
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Tacoma"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          [
+            -102674.66,
+            55304.742
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Vancouver"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          [
+            -92575.38,
+            59578.56
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Wenatchee"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          [
+            -94370.8,
+            55576.137
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Yakima"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          [
+            -42366.52,
+            24677.605
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Casper"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          [
+            -35388.78,
+            15843.375
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Cheyenne"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          [
+            -61520.56,
+            18779.809
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Evanston"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          [
+            -37554.953,
+            32004.8
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Gillette"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          [
+            -59581.293,
+            30768.344
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Jackson"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          [
+            -41711.387,
+            17576.973
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Laramie"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          [
+            -47429.82,
+            20285.04
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Rawlins"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          [
+            -50587.15,
+            27288.719
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Riverton"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          [
+            -53904.676,
+            18873.2
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Rock Springs"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          [
+            -43449.926,
+            34947.06
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Sheridan"
+      },
+      "type": "Feature"
+    }
+  ]
+}
