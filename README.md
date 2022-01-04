@@ -49,9 +49,9 @@ DLC | Supported
 
 
 [ATS Map]: https://github.com/TwinDragon/SCS_Map_Tiles/releases/download/1.43.1.2/ATS_Map_1.43.1.2.7z
-[ATS Promods]: https://github.com/TwinDragon/SCS_Map_Tiles/releases/download/1.41.1.86/ATS_promods_1.41.7z
+[ATS Promods]: https://github.com/TwinDragon/SCS_Map_Tiles/releases/download/1.43.3.8/ATS_Promods_1.43.7z
 [ETS2 Map]: https://github.com/TwinDragon/SCS_Map_Tiles/releases/download/1.43.1.2/ETS2_Map_1.43.1.2.7z
-[ETS2 Promods]: https://github.com/TwinDragon/SCS_Map_Tiles/releases/download/1.41.1.0/ETS2_promods_1.41.7z
+[ETS2 Promods]: https://github.com/TwinDragon/SCS_Map_Tiles/releases/download/1.43.3.8/ETS2_Promods_1.43.7z
 [Dashboard]: https://github.com/JAGFx/ets2-dashboard-skin
 [TsMap2]: https://github.com/JAGFx/ts-map
 
