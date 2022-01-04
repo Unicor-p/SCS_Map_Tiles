@@ -16,8 +16,8 @@ Map | Version | Download
 --- | --- | ---
 Base ATS | 1.43.1.2 | [Download][ATS Map]
 Base ETS2 | 1.43.1.2 | [Download][ETS2 Map]
-Promods ATS | 1.0.2 | [Download][ATS Promods]
-Promods ETS2 | 2.56 | [Download][ETS2 Promods]
+Promods ATS | 1.1.1 | [Download][ATS Promods]
+Promods ETS2 | 2.60 | [Download][ETS2 Promods]
 
 ### Supported ATS DLC
 
@@ -48,9 +48,9 @@ DLC | Supported
 [Heart of Russia][Russia] | *Coming Soon*
 
 
-[ATS Map]: https://github.com/TwinDragon/SCS_Map_Tiles/releases/download/1.41.1.60/ATS_Map_1.41.1.60.7z
+[ATS Map]: https://github.com/TwinDragon/SCS_Map_Tiles/releases/download/1.43.1.2/ATS_Map_1.43.1.2.7z
 [ATS Promods]: https://github.com/TwinDragon/SCS_Map_Tiles/releases/download/1.41.1.86/ATS_promods_1.41.7z
-[ETS2 Map]: https://github.com/TwinDragon/SCS_Map_Tiles/releases/download/1.41.1.0/ETS2_Map_1.41.1.0.7z
+[ETS2 Map]: https://github.com/TwinDragon/SCS_Map_Tiles/releases/download/1.43.1.2/ETS2_Map_1.43.1.2.7z
 [ETS2 Promods]: https://github.com/TwinDragon/SCS_Map_Tiles/releases/download/1.41.1.0/ETS2_promods_1.41.7z
 [Dashboard]: https://github.com/JAGFx/ets2-dashboard-skin
 [TsMap2]: https://github.com/JAGFx/ts-map
