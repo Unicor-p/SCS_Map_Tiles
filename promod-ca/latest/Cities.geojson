@@ -786,8 +786,8 @@
         "type": "Point",
         "coordinates": [
           [
-            -78193.016,
-            57848.125
+            -78219.05,
+            58079.785
           ]
         ]
       },
@@ -2061,6 +2061,36 @@
         "type": "Point",
         "coordinates": [
           [
+            -96425.97,
+            81026.75
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Bralorne"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          [
+            -90490.42,
+            79785.18
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Cache Creek"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          [
             -98857.17,
             75090.875
           ]
@@ -2076,6 +2106,21 @@
         "type": "Point",
         "coordinates": [
           [
+            -102079.89,
+            71967.47
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Delta"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          [
             -93519.28,
             72181.484
           ]
@@ -2083,6 +2128,21 @@
       },
       "properties": {
         "name": "Hope"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          [
+            -103858.266,
+            75921.78
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Horseshoe Bay"
       },
       "type": "Feature"
     },
@@ -2121,6 +2181,21 @@
         "type": "Point",
         "coordinates": [
           [
+            -93234.766,
+            79854.38
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Lillooet"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          [
             -90932.7,
             76584.5
           ]
@@ -2143,6 +2218,21 @@
       },
       "properties": {
         "name": "Osoyoos"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          [
+            -97086.94,
+            78692.28
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Pemberton"
       },
       "type": "Feature"
     },
@@ -2188,6 +2278,21 @@
       },
       "properties": {
         "name": "Salmon Arm"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          [
+            -101468.266,
+            78135.91
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Squamish"
       },
       "type": "Feature"
     },
