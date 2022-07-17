@@ -49,9 +49,9 @@ DLC | Supported
 [West Balkans][West Balkans] | *Coming Soon*
 
 
-[ATS Map]: https://github.com/TwinDragon/SCS_Map_Tiles/releases/download/1.43.1.2/ATS_Map_1.43.1.2.7z
-[ATS Promods]: https://github.com/TwinDragon/SCS_Map_Tiles/releases/download/1.43.3.8/ATS_Promods_1.43.7z
-[ETS2 Map]: https://github.com/TwinDragon/SCS_Map_Tiles/releases/download/1.43.1.2/ETS2_Map_1.43.1.2.7z
+[ATS Map]: https://github.com/TwinDragon/SCS_Map_Tiles/releases/download/1.44.1.22/ATS_Map_1.44.1.22.7z
+[ATS Promods]: https://github.com/TwinDragon/SCS_Map_Tiles/releases/download/1.44.1.22/ATS_Promods_1.44.7z
+[ETS2 Map]: https://github.com/TwinDragon/SCS_Map_Tiles/releases/download/1.44.1.10/ETS2_Map_1.44.1.10.7z
 [ETS2 Promods]: https://github.com/TwinDragon/SCS_Map_Tiles/releases/download/1.43.3.8/ETS2_Promods_1.43.7z
 [Dashboard]: https://github.com/JAGFx/ets2-dashboard-skin
 [TsMap2]: https://github.com/JAGFx/ts-map
