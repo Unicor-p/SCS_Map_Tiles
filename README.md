@@ -14,8 +14,8 @@ If you wish to contribute, please read the [How To Contribute](/CONTRIBUTE.md) d
 
 Map | Version | Download
 --- | --- | ---
-Base ATS | 1.43.1.2 | [Download][ATS Map]
-Base ETS2 | 1.43.1.2 | [Download][ETS2 Map]
+Base ATS | 1.44.1.22 | [Download][ATS Map]
+Base ETS2 | 1.44.1.10 | [Download][ETS2 Map]
 Promods ATS | 1.1.1 | [Download][ATS Promods]
 Promods ETS2 | 2.60 | [Download][ETS2 Promods]
 
