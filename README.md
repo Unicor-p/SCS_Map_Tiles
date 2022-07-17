@@ -46,6 +46,7 @@ DLC | Supported
 [Road to the Black Sea][Black Sea] | ✔
 [Iberia][Iberia] | ✔
 [Heart of Russia][Russia] | *Coming Soon*
+[West Balkans][West Balkans] | *Coming Soon*
 
 
 [ATS Map]: https://github.com/TwinDragon/SCS_Map_Tiles/releases/download/1.43.1.2/ATS_Map_1.43.1.2.7z
@@ -74,3 +75,4 @@ DLC | Supported
 [Black Sea]: https://store.steampowered.com/app/1056760/Euro_Truck_Simulator_2__Road_to_the_Black_Sea/
 [Iberia]: https://store.steampowered.com/app/1209460/Euro_Truck_Simulator_2__Iberia/
 [Russia]: https://store.steampowered.com/app/1536500/Euro_Truck_Simulator_2__Heart_of_Russia/
+[West Balkans]: https://store.steampowered.com/app/2004210/Euro_Truck_Simulator_2__West_Balkans/
