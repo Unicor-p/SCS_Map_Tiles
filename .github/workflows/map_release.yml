@@ -1,0 +1,91 @@
+name: Zip Release
+
+on: 
+  workflow_dispatch:
+    inputs:
+        tag:
+          description: 'Define tag'     
+          required: true
+          default: ''  
+          
+        release_name:
+          description: 'Define release name'     
+          required: true
+          default: ''
+
+        include_ats_ets2:
+          description: 'Include ATS/ETS2'    
+          type: boolean 
+          required: true
+          default: false
+
+        include_promods_promods-ca:
+          description: 'Include Promods/Promods-ca'   
+          type: boolean  
+          required: true
+          default: false
+
+        ats_filename:
+          description: 'Define ats file name'     
+          required: true
+          default: ''
+
+        ets2_filename:
+          description: 'Define ets2 file name'     
+          required: true
+          default: ''
+
+        promods_filename:
+          description: 'Define promods file name'     
+          required: true
+          default: ''
+
+        promods-ca_filename:
+          description: 'Define promods-ca file name'     
+          required: true
+          default: ''
+
+jobs:
+  zip-files:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+
+      - if: inputs.include_ats_ets2
+        uses: papeloto/action-zip@v1
+        with:
+          files: ats/
+          recursive: false
+          dest: ${{ inputs.ats_filename }}.zip
+       
+      - if: inputs.include_ats_ets2
+        uses: papeloto/action-zip@v1
+        with:
+          files: ets2/
+          recursive: false
+          dest: ${{ inputs.ets2_filename }}.zip
+          
+      - if: inputs.include_promods_promods-ca
+        uses: papeloto/action-zip@v1
+        with:
+          files: promods/
+          recursive: false
+          dest: ${{inputs.promods_filename }}.zip
+          
+      - if: inputs.include_promods_promods-ca
+        uses: papeloto/action-zip@v1
+        with:
+          files: promod-ca/
+          recursive: false
+          dest: ${{ inputs.promods-ca_filename }}.zip
+          
+      - uses: softprops/action-gh-release@v1
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          files: |
+            ${{ github.workspace }}/${{ inputs.ats_filename }}.zip
+            ${{ github.workspace }}/${{ inputs.ets2_filename }}.zip
+            ${{ github.workspace }}/${{ inputs.promods_filename }}.zip
+            ${{ github.workspace }}/${{ inputs.promods-ca_filename }}.zip
+          tag_name: ${{ inputs.tag }}
+          name: ${{ inputs.release_name }}
