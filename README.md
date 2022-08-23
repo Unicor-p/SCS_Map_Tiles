@@ -1,8 +1,8 @@
 <p align="center">
     <img src="https://img.shields.io/badge/ATS-v1.45.3.1-ff0000?style=for-the-badge" alt="American Truck Simulator">
     <img src="https://img.shields.io/badge/ETS2-v1.45.1.0-orange?style=for-the-badge" alt="Euro Truck Simulator 2">
-    <img src="https://img.shields.io/badge/Promods-v2.61-e6e600?style=for-the-badge" alt="Promods for ETS2">
-    <img src="https://img.shields.io/badge/PromodsCA-v1.2.0-00b300?style=for-the-badge" alt="Promods Canada for ATS">
+    <img src="https://img.shields.io/badge/Promods-v2.62-e6e600?style=for-the-badge" alt="Promods for ETS2">
+    <img src="https://img.shields.io/badge/PromodsCA-v1.2.1-00b300?style=for-the-badge" alt="Promods Canada for ATS">
 </p>
 
 # SCS Software Map Tile Collection
@@ -16,8 +16,8 @@ Map | Version | Download
 --- | --- | ---
 Base ATS | 1.45.3.1 | [Download][ATS Map]
 Base ETS2 | 1.45.1.0 | [Download][ETS2 Map]
-Promods ATS | 1.2.0 | [Download][ATS Promods]
-Promods ETS2 | 2.61 | [Download][ETS2 Promods]
+Promods ATS | 1.2.1 | [Download][ATS Promods]
+Promods ETS2 | 2.62 | [Download][ETS2 Promods]
 
 ### Supported ATS DLC
 
