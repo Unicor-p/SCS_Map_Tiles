@@ -50,7 +50,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
-      - run: apt install zip
+      - run: sudo apt install zip
 
       - if: inputs.include_ats_ets2
         run: zip -r "$ARCHIVE_NAME" ats/
