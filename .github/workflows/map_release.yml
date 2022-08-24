@@ -50,34 +50,27 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
+      - run: sudo apt install zip
 
       - if: inputs.include_ats_ets2
-        uses: papeloto/action-zip@v1
-        with:
-          files: ats/
-          recursive: false
-          dest: ${{ inputs.ats_filename }}.zip
+        run: zip -r "$ARCHIVE_NAME" ats/
+        env:
+          ARCHIVE_NAME: ${{ inputs.ats_filename }}.zip
        
       - if: inputs.include_ats_ets2
-        uses: papeloto/action-zip@v1
-        with:
-          files: ets2/
-          recursive: false
-          dest: ${{ inputs.ets2_filename }}.zip
+        run: zip -r "$ARCHIVE_NAME" ets2/
+        env:
+          ARCHIVE_NAME: ${{ inputs.ets2_filename }}.zip
           
       - if: inputs.include_promods_promods-ca
-        uses: papeloto/action-zip@v1
-        with:
-          files: promods/
-          recursive: false
-          dest: ${{inputs.promods_filename }}.zip
+        run: zip -r "$ARCHIVE_NAME" promods/
+        env:
+          ARCHIVE_NAME: ${{ inputs.promods_filename }}.zip
           
       - if: inputs.include_promods_promods-ca
-        uses: papeloto/action-zip@v1
-        with:
-          files: promod-ca/
-          recursive: false
-          dest: ${{ inputs.promods-ca_filename }}.zip
+        run: zip -r "$ARCHIVE_NAME" promod-ca/
+        env:
+          ARCHIVE_NAME: ${{ inputs.promods-ca_filename }}.zip
           
       - uses: softprops/action-gh-release@v1
         with:
