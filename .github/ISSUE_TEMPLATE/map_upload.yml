@@ -52,6 +52,9 @@ body:
     description: |
       It is *required* that you test the map tiles first before contributing.
       If you have tested them, and read the [CONTRIBUTING](CONTRIBUTE.md)
+    options:
+      - label: I have tested and read the Contributing document.
+        required: true
 - type: textarea
   id: add
   attributes:
