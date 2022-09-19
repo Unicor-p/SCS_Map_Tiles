@@ -30,8 +30,8 @@ body:
     label: "Is Promods being used?"
     description: "Select yes or no depending on if you use Promods."
     options:
-      - Yes
-      - No
+      - "Yes"
+      - "No"
   validations:
     required: true
 - type: input
