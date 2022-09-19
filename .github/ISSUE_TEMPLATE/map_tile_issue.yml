@@ -1,0 +1,64 @@
+name: Map Tile Issue
+description: If there's an issue with the tiles, fill out this form.
+title: "[Map Issue]: "
+body:
+- type: markdown
+  attributes:
+    value: |
+      If you found an issue with the map tiles, fill out the form below.
+      Please be as descriptive as possible and that all information filled is accurate.
+- type: dropdown
+  id: game
+  attributes:
+    label: "Which game?"
+    description: "Select which game where the issue is occurring from."
+    options:
+      - ATS
+      - ETS2
+  validations:
+    required: true
+- type: input
+  id: gver
+  attributes:
+    label: "What is your game version?"
+    placeholder: Ex. v1.45
+  validations:
+    required: true
+- type: dropdown
+  id: promods
+  attributes:
+    label: "Is Promods being used?"
+    description: "Select yes or no depending on if you use Promods."
+    options:
+      - Yes
+      - No
+  validations:
+    required: true
+- type: input
+  id: pver
+  attributes:
+    label: "What is your Promods version?"
+    placeholder: Ex. v2.01
+- type: textarea
+  id: bug
+  attributes:
+    label: "Specify what it is you're seeing."
+    description: |
+      Describe exactly what you're seeing. Include screenshots when possible.
+      Also describe the precise location of where this occurred.
+  validations:
+    required: true
+- type: textarea
+  id: expect
+  attributes:
+    label: "Note what you were expecting to see in the location."
+    description: |
+      Note what you are expecting to see in the tiles at the location. If possible, include a screenshot of approximately what's supposed to be there.
+  validations:
+    required: true
+- type: textarea
+  id: add
+  attributes:
+    label: "Additional Information"
+    description: |
+      If you have anything else to add, feel free to add it here.
