@@ -1,0 +1,15 @@
+name: Auto Label
+on:
+  issues:
+    types: ['opened']
+  pull_request:
+    types: ['opened']
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: Renato66/auto-label@v2
+        with:
+          repo-token: ${{ secrets.GITHUB_TOKEN }}
+          ignore-comments: true
+          labels-synonyms: '{"ATS":["ats","american truck sim","american"],"ETS2":["ets2","ets","euro truck sim"],"Promods":["promods"]}'
