@@ -32,6 +32,3 @@ labels:
   'ETS2':
     include:
       - '(?i)\b(ETS2)|(Euro Truck)|(ETS)\b'
-  'Promods':
-    include:
-      - '(?i)\bPromods\b'
