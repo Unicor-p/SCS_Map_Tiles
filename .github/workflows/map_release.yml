@@ -74,7 +74,7 @@ jobs:
           
       - uses: softprops/action-gh-release@v1
         with:
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.MAP_RELEASE }}
           files: |
             ${{ github.workspace }}/${{ inputs.ats_filename }}.zip
             ${{ github.workspace }}/${{ inputs.ets2_filename }}.zip
