@@ -44,3 +44,6 @@ labels:
   'RusMap':
     include:
       - '(?i)\b(rusmap)|(russia map)\b'
+  'Promods ME':
+    include:
+      - '(?i)\b(promods me)|(promods middle east)|(promods mid east)|(middle east)\b'
