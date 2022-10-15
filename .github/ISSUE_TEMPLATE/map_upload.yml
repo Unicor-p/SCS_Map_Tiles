@@ -36,7 +36,7 @@ body:
   id: mapver
   attributes:
     label: "If yes to the above, please list what mod and their version."
-    placeholder: Example: Promods v2.01, Coast 2 Coast 1.0.2
+    placeholder: "Example: Promods v2.01, Coast 2 Coast 1.0.2"
 - type: textarea
   id: uplink
   attributes:

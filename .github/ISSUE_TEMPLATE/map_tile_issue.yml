@@ -39,7 +39,7 @@ body:
   attributes:
     label: "What maps are you using and their version?"
     description: "Please be sure to note any and all map mods, along with their versions and any combinations if you are using multiple at once."
-    placeholder: Example: Promods v2.01, Promods Egypt v2.01, Coast 2 Coast v1.0.2
+    placeholder: "Example: Promods v2.01, Promods Egypt v2.01, Coast 2 Coast v1.0.2"
 - type: textarea
   id: bug
   attributes:
