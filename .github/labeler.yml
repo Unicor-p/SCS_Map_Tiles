@@ -32,3 +32,18 @@ labels:
   'ETS2':
     include:
       - '(?i)\b(ETS2)|(Euro Truck)|(ETS)\b'
+  'Promods':
+    include:
+      - '(?i)\bpromods\b'
+  'C2C':
+    include:
+      - '(?i)\b(c2c)|(coast to coast)|(coast 2 coast)\b'
+  'CanaDream':
+    include:
+      - '(?i)\b(canadream)|(canada dream)\b'
+  'RusMap':
+    include:
+      - '(?i)\b(rusmap)|(russia map)\b'
+  'Promods ME':
+    include:
+      - '(?i)\b(promods me)|(promods middle east)|(promods mid east)|(middle east)\b'
