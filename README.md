@@ -32,7 +32,7 @@ DLC | Supported
 [Colorado][Colorado] | ✔
 [Wyoming][Wyoming] | ✔
 [Montana][Montana] | ✔
-[Texas][Texas] | *Coming Soon*
+[Texas][Texas] | *Nov. 15th*
 
 ### Supported ETS2 DLC
 
