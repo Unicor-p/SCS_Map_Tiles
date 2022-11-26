@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="https://img.shields.io/badge/ATS-v1.46.0.30-ff0000?style=for-the-badge" alt="American Truck Simulator">
+    <img src="https://img.shields.io/badge/ATS-v1.46.2.4-ff0000?style=for-the-badge" alt="American Truck Simulator">
     <img src="https://img.shields.io/badge/ETS2-v1.45.1.0-orange?style=for-the-badge" alt="Euro Truck Simulator 2">
     <img src="https://img.shields.io/badge/Promods-v2.62-e6e600?style=for-the-badge" alt="Promods for ETS2">
     <img src="https://img.shields.io/badge/PromodsCA-v1.2.1-00b300?style=for-the-badge" alt="Promods Canada for ATS">
