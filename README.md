@@ -32,7 +32,7 @@ DLC | Supported
 [Colorado][Colorado] | ✔
 [Wyoming][Wyoming] | ✔
 [Montana][Montana] | ✔
-[Texas][Texas] | *Coming Soon*
+[Texas][Texas] | *Nov. 15th*
 
 ### Supported ETS2 DLC
 
@@ -49,7 +49,7 @@ DLC | Supported
 [West Balkans][West Balkans] | *Coming Soon*
 
 
-[ATS Map]: https://drive.google.com/file/d/1rVxp8T6SYrY8IkXr-PaKSkh2hJxTVdyx/view?usp=sharing
+[ATS Map]: https://github.com/Unicor-p/SCS_Map_Tiles/releases/download/1.45.1.0/ATS_Map_1.45.7z
 [ATS Promods]: https://github.com/Unicor-p/SCS_Map_Tiles/releases/download/1.45.3.0/ATS_Promods_1.45.7z
 [ETS2 Map]: https://github.com/Unicor-p/SCS_Map_Tiles/releases/download/1.46.2.4/ETS2_Map.1.46.zip
 [ETS2 Promods]: https://github.com/Unicor-p/SCS_Map_Tiles/releases/download/1.45.3.0/ETS2_Promods_1.45.7z

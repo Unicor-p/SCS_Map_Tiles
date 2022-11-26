@@ -1,0 +1,49 @@
+# labeler "full" schema
+
+# enable labeler on issues, prs, or both.
+enable:
+  issues: true
+  prs: true
+# comments object allows you to specify a different message for issues and prs
+
+comments:
+  issues: |
+    I went ahead and applied any labels to your issue basing on your title and description!
+    
+    Make sure you included everything necessary in the issue form template and someone will get back with you soon.
+  prs: |
+    I've automatically applied labels basing on your title and description here!
+    
+    Thanks for opening a PR, and everything will be checked at soon.
+    
+    Please note, if the tiles are for a beta patch, they will not be merged immediately. If they are for a mod, as long as you defined what mod it's for, it can be merged properly in the correct branch.
+
+# Labels is an object where:
+# - keys are labels
+# - values are objects of { include: [ pattern ], exclude: [ pattern ] }
+#    - pattern must be a valid regex, and is applied globally to
+#      title + description of issues and/or prs (see enabled config above)
+#    - 'include' patterns will associate a label if any of these patterns match
+#    - 'exclude' patterns will ignore this label if any of these patterns match
+labels:
+  'ATS':
+    include:
+      - '(?i)\b(ATS)|(American Truck)\b'
+  'ETS2':
+    include:
+      - '(?i)\b(ETS2)|(Euro Truck)|(ETS)\b'
+  'Promods':
+    include:
+      - '(?i)\bpromods\b'
+  'C2C':
+    include:
+      - '(?i)\b(c2c)|(coast to coast)|(coast 2 coast)\b'
+  'CanaDream':
+    include:
+      - '(?i)\b(canadream)|(canada dream)\b'
+  'RusMap':
+    include:
+      - '(?i)\b(rusmap)|(russia map)\b'
+  'Promods ME':
+    include:
+      - '(?i)\b(promods me)|(promods middle east)|(promods mid east)|(middle east)\b'
