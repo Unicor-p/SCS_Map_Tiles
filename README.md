@@ -14,7 +14,7 @@ If you wish to contribute, please read the [How To Contribute](/CONTRIBUTE.md) d
 
 Map | Version | Download
 --- | --- | ---
-Base ATS | 1.46.0.30 | *Download Not Available*
+Base ATS | 1.46.2.4 | [Download][ATS Map]
 Base ETS2 | 1.45.1.0 | [Download][ETS2 Map]
 Promods ATS | 1.2.1 | [Download][ATS Promods]
 Promods ETS2 | 2.62 | [Download][ETS2 Promods]
@@ -32,7 +32,7 @@ DLC | Supported
 [Colorado][Colorado] | ✔
 [Wyoming][Wyoming] | ✔
 [Montana][Montana] | ✔
-[Texas][Texas] | *Coming Soon*
+[Texas][Texas] | ✔
 
 ### Supported ETS2 DLC
 
@@ -49,7 +49,7 @@ DLC | Supported
 [West Balkans][West Balkans] | *Coming Soon*
 
 
-[ATS Map]: https://drive.google.com/file/d/1rVxp8T6SYrY8IkXr-PaKSkh2hJxTVdyx/view?usp=sharing
+[ATS Map]: https://github.com/Unicor-p/SCS_Map_Tiles/releases/download/1.46.2.4/ATS_Map_1.46.zip
 [ATS Promods]: https://github.com/Unicor-p/SCS_Map_Tiles/releases/download/1.45.3.0/ATS_Promods_1.45.7z
 [ETS2 Map]: https://drive.google.com/file/d/1BH2XGfEnY5nkM-ZPfN4gabpxvNX4YZmp/view?usp=sharing
 [ETS2 Promods]: https://github.com/Unicor-p/SCS_Map_Tiles/releases/download/1.45.3.0/ETS2_Promods_1.45.7z
