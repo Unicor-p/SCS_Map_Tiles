@@ -23,20 +23,20 @@ body:
   validations:
     required: true
 - type: dropdown
-  id: promods
+  id: mapmods
   attributes:
-    label: "Is Promods being used?"
-    description: "Select yes or no depending on if you use Promods."
+    label: "Are you using any map mods?"
+    description: "Select yes or no depending on if you are using map mods."
     options:
       - "Yes"
       - "No"
   validations:
     required: true
 - type: input
-  id: pver
+  id: mapver
   attributes:
-    label: "What is your Promods version?"
-    placeholder: Ex. v2.01
+    label: "If yes to the above, please list what mod and their version."
+    placeholder: "Example: Promods v2.01, Coast 2 Coast 1.0.2"
 - type: textarea
   id: uplink
   attributes:
