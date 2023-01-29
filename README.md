@@ -34,6 +34,7 @@ DLC | Supported
 [Montana][Montana] | ✔
 [Texas][Texas] | ✔
 [Oklahoma][Oklahoma] | *Coming Soon*
+[Kansas][Kansas] | *Coming Soon*
 
 ### Supported ETS2 DLC
 
@@ -60,6 +61,7 @@ DLC | Supported
 [Arizona]: https://store.steampowered.com/app/463740/American_Truck_Simulator__Arizona/
 [Colorado]: https://store.steampowered.com/app/1209471/American_Truck_Simulator__Colorado/
 [Idaho]: https://store.steampowered.com/app/1209470/American_Truck_Simulator__Idaho/
+[Kansas]: https://store.steampowered.com/app/2298430/American_Truck_Simulator__Kansas/
 [Montana]: https://store.steampowered.com/app/1811080/American_Truck_Simulator__Montana/
 [New Mexico]: https://store.steampowered.com/app/684630/American_Truck_Simulator__New_Mexico/
 [Oklahoma]: https://store.steampowered.com/app/2209650/American_Truck_Simulator__Oklahoma/
