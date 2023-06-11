@@ -1,64 +1,64 @@
 name: Map Tile Upload
 description: Fill out this form if you'd like to contribute to uploading tiles.
 body:
-- type: markdown
-  attributes:
-    value: |
-      Thanks for wanting to contribute! Please fill out the form if you wish to upload tiles.
-- type: dropdown
-  id: game
-  attributes:
-    label: "Which game?"
-    description: "Select which game you're providing tiles for."
-    options:
-      - ATS
-      - ETS2
-  validations:
-    required: true
-- type: input
-  id: gver
-  attributes:
-    label: "What is your game version?"
-    placeholder: Ex. v1.45
-  validations:
-    required: true
-- type: dropdown
-  id: mapmods
-  attributes:
-    label: "Are you using any map mods?"
-    description: "Select yes or no depending on if you are using map mods."
-    options:
-      - "Yes"
-      - "No"
-  validations:
-    required: true
-- type: input
-  id: mapver
-  attributes:
-    label: "If yes to the above, please list what mod and their version."
-    placeholder: "Example: Promods v2.01, Coast 2 Coast 1.0.2"
-- type: textarea
-  id: uplink
-  attributes:
-    label: "Link to Map Tiles"
-    description: |
-      Link to the map tiles you'd like to contribute.
-  validations:
-    required: true
-- type: checkboxes
-  id: tested
-  attributes:
-    label: "Have the tiles been tested?"
-    description: |
-      It is *required* that you test the map tiles first before contributing.
-      If you have tested them, and read the [CONTRIBUTING](../../CONTRIBUTE.md) document.
-    options:
-      - label: I have tested and read the Contributing document.
-        required: true
-- type: textarea
-  id: add
-  attributes:
-    label: "Additional Information"
-    description: |
-      If you have anything else to add, feel free to add it here.
-      This will include any particular map mods that either add onto Promods, or are different to the base game.
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for wanting to contribute! Please fill out the form if you wish to upload tiles.
+  - type: dropdown
+    id: game
+    attributes:
+      label: "Which game?"
+      description: "Select which game you're providing tiles for."
+      options:
+        - ATS
+        - ETS2
+    validations:
+      required: true
+  - type: input
+    id: gver
+    attributes:
+      label: "What is your game version?"
+      placeholder: Ex. v1.45
+    validations:
+      required: true
+  - type: dropdown
+    id: mapmods
+    attributes:
+      label: "Are you using any map mods?"
+      description: "Select yes or no depending on if you are using map mods."
+      options:
+        - "Yes"
+        - "No"
+    validations:
+      required: true
+  - type: input
+    id: mapver
+    attributes:
+      label: "If yes to the above, please list what mod and their version."
+      placeholder: "Example: Promods v2.01, Coast 2 Coast 1.0.2"
+  - type: textarea
+    id: uplink
+    attributes:
+      label: "Link to Map Tiles"
+      description: |
+        Link to the map tiles you'd like to contribute.
+    validations:
+      required: true
+  - type: checkboxes
+    id: tested
+    attributes:
+      label: "Have the tiles been tested?"
+      description: |
+        It is *required* that you test the map tiles first before contributing.
+        If you have tested them, and read the [CONTRIBUTING](../CONTRIBUTE.md) document.
+      options:
+        - label: I have tested and read the Contributing document.
+          required: true
+  - type: textarea
+    id: add
+    attributes:
+      label: "Additional Information"
+      description: |
+        If you have anything else to add, feel free to add it here.
+        This will include any particular map mods that either add onto Promods, or are different to the base game.
