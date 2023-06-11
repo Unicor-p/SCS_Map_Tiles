@@ -51,7 +51,7 @@ body:
       label: "Have the tiles been tested?"
       description: |
         It is *required* that you test the map tiles first before contributing.
-        If you have tested them, and read the [CONTRIBUTING](../CONTRIBUTE.md) document.
+        If you have tested them, and read the [CONTRIBUTING](https://github.com/Unicor-p/SCS_Map_Tiles/blob/master/CONTRIBUTE.md) document.
       options:
         - label: I have tested and read the Contributing document.
           required: true
