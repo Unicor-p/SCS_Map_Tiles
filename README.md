@@ -1,6 +1,6 @@
 <p align="center">
     <img src="https://img.shields.io/badge/ATS-v1.46.2.4-ff0000?style=for-the-badge" alt="American Truck Simulator">
-    <img src="https://img.shields.io/badge/ETS2-v1.46.1.0-orange?style=for-the-badge" alt="Euro Truck Simulator 2">
+    <img src="https://img.shields.io/badge/ETS2-v1.47.2.6-orange?style=for-the-badge" alt="Euro Truck Simulator 2">
     <img src="https://img.shields.io/badge/Promods-v2.62-e6e600?style=for-the-badge" alt="Promods for ETS2">
     <img src="https://img.shields.io/badge/PromodsCA-v1.2.1-00b300?style=for-the-badge" alt="Promods Canada for ATS">
 </p>
@@ -15,7 +15,7 @@ If you wish to contribute, please read the [How To Contribute](/CONTRIBUTE.md) d
 Map | Version | Download
 --- | --- | ---
 Base ATS | 1.46.2.4 | [Download][ATS Map]
-Base ETS2 | 1.46.1.0 | [Download][ETS2 Map]
+Base ETS2 | 1.47.2.6 | [Download][ETS2 Map]
 Promods ATS | 1.2.1 | [Download][ATS Promods]
 Promods ETS2 | 2.62 | [Download][ETS2 Promods]
 
@@ -53,7 +53,7 @@ DLC | Supported
 
 [ATS Map]: https://github.com/Unicor-p/SCS_Map_Tiles/releases/download/1.46.2.4/ATS_Map_1.46.zip
 [ATS Promods]: https://github.com/Unicor-p/SCS_Map_Tiles/releases/download/1.45.3.0/ATS_Promods_1.45.7z
-[ETS2 Map]: https://github.com/Unicor-p/SCS_Map_Tiles/releases/download/1.46.2.4/ETS2_Map_1.46.zip
+[ETS2 Map]: https://github.com/Unicor-p/SCS_Map_Tiles/releases/download/1.47.2.6/ETS2_Map_1.47.zip
 [ETS2 Promods]: https://github.com/Unicor-p/SCS_Map_Tiles/releases/download/1.45.3.0/ETS2_Promods_1.45.7z
 [Dashboard]: https://github.com/JAGFx/ets2-dashboard-skin
 [TsMap2]: https://github.com/JAGFx/ts-map
