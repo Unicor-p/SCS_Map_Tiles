@@ -4,9 +4,9 @@ Onto the main part of how to contribute here.
 
 ## Generating Map Tiles
 
-In order to generate tiles, you will need to [latest prelease](https://github.com/Unicor-p/ts-map/releases) from the TsMap repository. Do not worry about the source code.
+In order to generate tiles, you will need to [latest pre-release](https://github.com/Unicor-p/ts-map/releases) from the TsMap repository. Do not worry about the source code.
 
-Once you have the zip file, extract it anywhere you wish, then run the TsMap2 EXE file. From here, you will have the option of choosing the game, its main game directory, and mods. If you are contributing only the base game map tiles, *do not select any mods* and also select the **JagFx** profile. By this point, you should be able to generate the tiles.
+Once you have the zip file, extract it anywhere you wish, then run the TsMap2 EXE file. From here, you will have the option of choosing the game, its main game directory, and mods. If you are contributing only the base game map tiles, *do not select any mods* and then select the **JagFx** profile when you select to `Generate Map Tiles`. By this point, you should be able to generate the tiles.
 
 For Promods, during mod selection, *only* select the Promods map files as required.
 
@@ -20,7 +20,14 @@ Check your *Output* folder for the map files, and zip/rar them for easy uploadin
 
 ## Contribute File(s)
 
-Now that you have a zip, it's time to actually contribute them! It's pretty simple, just open a [New Issue](https://github.com/Unicor-p/SCS_Map_Tiles/issues/new/choose) and link the file using whatever service you prefer. That could be Google Drive, MEGA, OneDrive, etc... Whichever is easiest.
+Now that you have a zip, it's time to actually contribute them! It's pretty simple, just open a [New Issue](https://github.com/Unicor-p/SCS_Map_Tiles/issues/new/choose) and link the file using whatever service you prefer. Below, you can see a list of services you can use to send me the files. These are not the only ones available, and you are free to use whichever is easiest.
+
+* [Google Drive](https://drive.google.com)
+* [Microsoft OneDrive](https://onedrive.com)
+* [Dropbox](https://dropbox.com)
+* [Pixeldrain](https://pixeldrain.com)
+* [MEGA](https://mega.nz)
+* [1fichier](https://1fichier.com)
 
 ### Promods Note
 
