@@ -33,7 +33,7 @@ DLC | Supported
 [Wyoming][Wyoming] | ✔
 [Montana][Montana] | ✔
 [Texas][Texas] | ✔
-[Oklahoma][Oklahoma] | *Coming Soon*
+[Oklahoma][Oklahoma] | ✔
 [Kansas][Kansas] | *Coming Soon*
 [Nebraska][Nebraska] | *Coming Soon*
 
