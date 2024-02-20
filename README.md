@@ -34,8 +34,10 @@ DLC | Supported
 [Montana][Montana] | ✔
 [Texas][Texas] | ✔
 [Oklahoma][Oklahoma] | ✔
-[Kansas][Kansas] | *Coming Soon*
+[Kansas][Kansas] | ❌
+[Missouri][Missouri] | *Coming Soon*
 [Nebraska][Nebraska] | *Coming Soon*
+[Arkansas][Arkansas] | *Coming Soon*
 
 ### Supported ETS2 DLC
 
@@ -48,8 +50,10 @@ DLC | Supported
 [Beyond the Baltic Sea][Baltic Sea] | ✔
 [Road to the Black Sea][Black Sea] | ✔
 [Iberia][Iberia] | ✔
+[West Balkans][West Balkans] | ❌
 [Heart of Russia][Russia] | *Coming Soon*
-[West Balkans][West Balkans] | *Coming Soon*
+[Nordic Horizons][Nordic] | *Coming Soon*
+[Greece][Greece] | *Coming Soon*
 
 
 [ATS Map]: https://github.com/Unicor-p/SCS_Map_Tiles/releases/download/1.48.2.6/ATS_Map_1.48.zip
@@ -59,10 +63,12 @@ DLC | Supported
 [Dashboard]: https://github.com/JAGFx/ets2-dashboard-skin
 [TsMap2]: https://github.com/JAGFx/ts-map
 
+[Arkansas]: https://store.steampowered.com/app/2585150/American_Truck_Simulator__Arkansas/
 [Arizona]: https://store.steampowered.com/app/463740/American_Truck_Simulator__Arizona/
 [Colorado]: https://store.steampowered.com/app/1209471/American_Truck_Simulator__Colorado/
 [Idaho]: https://store.steampowered.com/app/1209470/American_Truck_Simulator__Idaho/
 [Kansas]: https://store.steampowered.com/app/2298430/American_Truck_Simulator__Kansas/
+[Missouri]: https://store.steampowered.com/app/2730870/American_Truck_Simulator__Missouri/
 [Montana]: https://store.steampowered.com/app/1811080/American_Truck_Simulator__Montana/
 [Nebraska]: https://store.steampowered.com/app/2543810/American_Truck_Simulator__Nebraska/
 [New Mexico]: https://store.steampowered.com/app/684630/American_Truck_Simulator__New_Mexico/
@@ -82,3 +88,5 @@ DLC | Supported
 [Iberia]: https://store.steampowered.com/app/1209460/Euro_Truck_Simulator_2__Iberia/
 [Russia]: https://store.steampowered.com/app/1536500/Euro_Truck_Simulator_2__Heart_of_Russia/
 [West Balkans]: https://store.steampowered.com/app/2004210/Euro_Truck_Simulator_2__West_Balkans/
+[Nordic]: https://store.steampowered.com/app/2780810/Euro_Truck_Simulator_2__Nordic_Horizons/
+[Greece]: https://store.steampowered.com/app/2604420/Euro_Truck_Simulator_2__Greece/
