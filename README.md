@@ -50,7 +50,7 @@ DLC | Supported
 [Beyond the Baltic Sea][Baltic Sea] | ✔
 [Road to the Black Sea][Black Sea] | ✔
 [Iberia][Iberia] | ✔
-[West Balkans][West Balkans] | ❌
+[West Balkans][West Balkans] | ✔
 [Heart of Russia][Russia] | *Coming Soon*
 [Nordic Horizons][Nordic] | *Coming Soon*
 [Greece][Greece] | *Coming Soon*
